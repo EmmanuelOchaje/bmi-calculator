@@ -1,0 +1,48 @@
+* {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+.wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 2em;
+}
+.bmi {
+  min-height: 50vh;
+  border: 1px solid black;
+  border-radius: 15px;
+  width: 22.5%;
+}
+.bmi h2 {
+  padding-left: 0;
+  text-align: center;
+  padding: 1rem;
+}
+label {
+  margin-left: 1rem;
+}
+.input {
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+  width: 80%;
+  border: 1px solid rgb(161, 161, 161);
+  border-radius: 10px;
+  height: 2rem;
+}
+.black {
+  background-color: black;
+  color: white;
+}
+.btn {
+  width: 90%;
+  margin-bottom: 0.5rem;
+  margin-left: 1rem;
+  padding: 0.3rem;
+  border: 1px solid transparent;
+  border-radius: 10px;
+}
+.para {
+  margin-bottom: 1rem;
+  text-align: center;
+}
